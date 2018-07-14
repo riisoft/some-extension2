@@ -1,0 +1,13 @@
+{
+    "name": "riisoft/some-extension2",
+    "type": "library",
+    "require": {
+        "riisoft/framework": "~2.0.15"
+    },
+    "authors": [
+        {
+            "name": "Robert Korulczyk",
+            "email": "robert@korulczyk.pl"
+        }
+    ]
+}
